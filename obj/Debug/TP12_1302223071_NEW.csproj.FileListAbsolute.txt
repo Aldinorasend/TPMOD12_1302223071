@@ -1,0 +1,10 @@
+D:\C# Project\TP12_1302223071_NEW\obj\Debug\TP12_1302223071_NEW.csproj.AssemblyReference.cache
+D:\C# Project\TP12_1302223071_NEW\obj\Debug\TP12_1302223071_NEW.Form1.resources
+D:\C# Project\TP12_1302223071_NEW\obj\Debug\TP12_1302223071_NEW.Properties.Resources.resources
+D:\C# Project\TP12_1302223071_NEW\obj\Debug\TP12_1302223071_NEW.csproj.GenerateResource.cache
+D:\C# Project\TP12_1302223071_NEW\obj\Debug\TP12_1302223071_NEW.csproj.CoreCompileInputs.cache
+D:\C# Project\TP12_1302223071_NEW\bin\Debug\TP12_1302223071_NEW.exe.config
+D:\C# Project\TP12_1302223071_NEW\bin\Debug\TP12_1302223071_NEW.exe
+D:\C# Project\TP12_1302223071_NEW\bin\Debug\TP12_1302223071_NEW.pdb
+D:\C# Project\TP12_1302223071_NEW\obj\Debug\TP12_1302223071_NEW.exe
+D:\C# Project\TP12_1302223071_NEW\obj\Debug\TP12_1302223071_NEW.pdb
